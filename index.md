@@ -8,8 +8,9 @@ Bu sayfa içerisinde
 * Derslere ait repositoryler
 * Ödevler
 * Duyurular
+* 
 paylaşılmaktadır.
 
-Sayfa yönetimi [Sevginur Özer](20215070014.github.io)tarafından yapılmaktadır.
+Sayfa yönetimi [Sevginur Özer](https://20215070014.github.io/)tarafından yapılmaktadır.
 
 
